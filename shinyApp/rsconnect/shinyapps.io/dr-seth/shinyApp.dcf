@@ -1,0 +1,9 @@
+name: shinyApp
+account: dr-seth
+server: shinyapps.io
+appId: 115568
+bundleId: 509699
+url: https://dr-seth.shinyapps.io/shinyApp/
+when: 1468966945.77687
+asMultiple: FALSE
+asStatic: FALSE
